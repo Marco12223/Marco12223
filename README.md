@@ -1,10 +1,10 @@
 ### **<ins><div align="center">I'm Marco H, a hobby developer 👨‍💻 from Germany, working since 2016🚀</div></ins>**  
   
 
-- 🔭 I’m currently working on [Discord bots](https://discord.gg/StG8rQbRCA)  
+- 🔭 I’m currently working for [Apexium Hosting](https://github.com/apexiumhosting)  
   
 
-- 🌱 I’m currently learning Swift  
+- 🌱 I’m currently learning how to be a ISP, lol
   
 
 <br/>  
