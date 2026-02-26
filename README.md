@@ -26,7 +26,13 @@ I enjoy turning complex ideas into **robust, maintainable software** and continu
 ### **Languages**
 - TypeScript / JavaScript  
 - Python  
-- SQL  
+- SQL
+- Java
+- PHP
+- Dart
+- HTML / CSS
+- C++
+- C#
 
 ### **Backend & APIs**
 - Node.js  
