@@ -1,18 +1,20 @@
 ### **<ins><div align="center">Hi, I'm Marco 👨‍💻</div></ins>**
 <div align="center">
-A hobby developer from Germany 🇩🇪 — building software since 2016 🚀  
-<br/>
-Backend • Infrastructure • APIs • Systems
+Backend • Infrastructure • APIs • Systems • DNS Engineering  
+Germany 🇩🇪 — building software since 2016 🚀  
 </div>
 
 ---
 
 ## 👋 About Me  
 
-- 💻 Passionate **hobby & indie developer** with several years of experience  
+- 💻 Passionate developer with several years of experience  
 - 🧠 Strong focus on **backend systems, APIs, and infrastructure**
 - 🏗️ Interested in **scalable architectures**, automation, and clean system design  
-- 🚀 Working on **personal projects, tools, and platforms**
+- 🚀 Working on personal projects, tools, and platforms  
+- 🌐 Building domain & DNS-related infrastructure systems  
+- 🔐 Designing secure authentication flows (2FA / TOTP concepts)  
+- 🐳 Deploying containerized services in self-managed environments  
 - 📚 Always learning: performance, security, DevOps, and modern web stacks  
 
 I enjoy turning complex ideas into **robust, maintainable software** and continuously improving my technical depth.
@@ -29,6 +31,7 @@ I enjoy turning complex ideas into **robust, maintainable software** and continu
 ### **Backend & APIs**
 - Node.js  
 - NestJS  
+- Next.js (App Router)  
 - REST APIs  
 - Authentication & Authorization  
 - Prisma / ORM-based data access  
@@ -42,7 +45,10 @@ I enjoy turning complex ideas into **robust, maintainable software** and continu
 - Docker & Docker Compose  
 - Linux (Server & CLI)  
 - Reverse Proxies (NGINX)  
+- DNS configuration & domain lifecycle management  
+- Reverse proxy security hardening  
 - Basic CI/CD concepts  
+- Infrastructure cost awareness  
 - Self-hosted services  
 
 ### **Other**
@@ -58,6 +64,16 @@ I enjoy turning complex ideas into **robust, maintainable software** and continu
 - ⚙️ Backend performance & clean architecture  
 - 📦 Containerized applications  
 - 🧩 Modular, scalable project structures  
+
+---
+
+## 🌐 Infrastructure & DNS Work
+
+- Domain reseller concepts & lifecycle handling  
+- DNS architecture & record management  
+- Abuse prevention & rate limiting strategies  
+- Secure registrar-level workflows  
+- Infrastructure reliability & monitoring concepts  
 
 ---
 
